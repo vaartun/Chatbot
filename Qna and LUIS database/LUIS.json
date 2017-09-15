@@ -1,0 +1,193 @@
+{
+  "luis_schema_version": "2.1.0",
+  "versionId": "0.1",
+  "name": "KreftforeningenDemo",
+  "desc": "",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "GetDisabilityBenefits"
+    },
+    {
+      "name": "Help"
+    },
+    {
+      "name": "LearnAboutLegalRights"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "QnAQuestions"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "bing_entities": [],
+  "actions": [],
+  "model_features": [],
+  "regex_features": [],
+  "utterances": [
+    {
+      "text": "help",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "hjelp",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "i have the avklarings money, and wonder how often i'll send report cards?",
+      "intent": "QnAQuestions",
+      "entities": []
+    },
+    {
+      "text": "i have a job settlement fee and wonder how often i will send a report card?",
+      "intent": "QnAQuestions",
+      "entities": []
+    },
+    {
+      "text": "how do i apply for a survivor's pension?",
+      "intent": "QnAQuestions",
+      "entities": []
+    },
+    {
+      "text": "is there any age limit for support to transport?",
+      "intent": "QnAQuestions",
+      "entities": []
+    },
+    {
+      "text": "is there any age limit for support for transportation?",
+      "intent": "QnAQuestions",
+      "entities": []
+    },
+    {
+      "text": "i have been working for four years avklarings money and now the nav no. what do i do?",
+      "intent": "QnAQuestions",
+      "entities": []
+    },
+    {
+      "text": "i have received a job clearing fee for four years and now, nav says no. what am i doing?",
+      "intent": "QnAQuestions",
+      "entities": []
+    },
+    {
+      "text": "how long can i get the avklarings money?",
+      "intent": "QnAQuestions",
+      "entities": []
+    },
+    {
+      "text": "how long can i get workout fees?",
+      "intent": "QnAQuestions",
+      "entities": []
+    },
+    {
+      "text": "i have experienced that the caseworker on the nav is raunchy and rude. can i appeal?",
+      "intent": "QnAQuestions",
+      "entities": []
+    },
+    {
+      "text": "i have experienced that my case manager at nav is rude and rude. can i complain?",
+      "intent": "QnAQuestions",
+      "entities": []
+    },
+    {
+      "text": "my husband is in a nursing home and i wonder if the nav can pay for the space?",
+      "intent": "QnAQuestions",
+      "entities": []
+    },
+    {
+      "text": "my husband is in a nursing home and i wonder if nav can pay for the place?",
+      "intent": "QnAQuestions",
+      "entities": []
+    },
+    {
+      "text": "i have been rejected from the nav on the disability and appeals deadline is out. what do i do?",
+      "intent": "QnAQuestions",
+      "entities": []
+    },
+    {
+      "text": "i have received a refund from nav on disability insurance and the deadline for appeal is out. what am i doing?",
+      "intent": "QnAQuestions",
+      "entities": []
+    },
+    {
+      "text": "hi, i get holiday pay of disability?",
+      "intent": "QnAQuestions",
+      "entities": []
+    },
+    {
+      "text": "hello, do i get holiday benefits from disability insurance?",
+      "intent": "QnAQuestions",
+      "entities": []
+    },
+    {
+      "text": "i have been out on sick leave. cancer in one year. my doctor recommend that i get 50 percent disabled. what happens if i get sick before it's been half a year?",
+      "intent": "GetDisabilityBenefits",
+      "entities": []
+    },
+    {
+      "text": "i have been ill-reported due to cancer for one year. my doctor recommends that i get 50 percent disability. what happens if i get sick before half a year?",
+      "intent": "GetDisabilityBenefits",
+      "entities": []
+    },
+    {
+      "text": "hi, i'm a student being treated for leukemia. i have the right to something from the nav?",
+      "intent": "LearnAboutLegalRights",
+      "entities": []
+    },
+    {
+      "text": "hi, have got cancer and wonder if i can get disability",
+      "intent": "GetDisabilityBenefits",
+      "entities": []
+    },
+    {
+      "text": "hi, have had cancer and wonder if i can get disability insurance",
+      "intent": "GetDisabilityBenefits",
+      "entities": []
+    },
+    {
+      "text": "i am a student treated for leukemia. am i entitled to anything from nav?",
+      "intent": "LearnAboutLegalRights",
+      "entities": []
+    },
+    {
+      "text": "can i get disability insurance?",
+      "intent": "GetDisabilityBenefits",
+      "entities": []
+    },
+    {
+      "text": "have got cancer, i can get disability?",
+      "intent": "GetDisabilityBenefits",
+      "entities": []
+    },
+    {
+      "text": "what to get disability?",
+      "intent": "GetDisabilityBenefits",
+      "entities": []
+    },
+    {
+      "text": "can i get social security?",
+      "intent": "GetDisabilityBenefits",
+      "entities": []
+    },
+    {
+      "text": "jeg trenger assistanse",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "i need more aids after cancer treatment. how do i get out?",
+      "intent": "QnAQuestions",
+      "entities": []
+    },
+    {
+      "text": "i need more aids after cancer treatment. how do i go forward?",
+      "intent": "QnAQuestions",
+      "entities": []
+    }
+  ]
+}
