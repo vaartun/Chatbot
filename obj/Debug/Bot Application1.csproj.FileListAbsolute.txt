@@ -1,0 +1,169 @@
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\obj\Debug\Bot Application1.csproj.CoreCompileInputs.cache
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\Bot Application.dll.config
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\Bot Application.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\Bot Application.pdb
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\Autofac.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\Chronic.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\Microsoft.Bot.Builder.Autofac.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\Microsoft.Bot.Builder.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\Microsoft.Bot.Connector.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\Microsoft.Rest.ClientRuntime.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\Newtonsoft.Json.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\System.Net.Http.Formatting.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\System.Web.Http.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\System.Web.Http.WebHost.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\Autofac.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\Microsoft.Bot.Builder.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\Microsoft.Bot.Builder.Autofac.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\Microsoft.Bot.Connector.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\Newtonsoft.Json.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\System.Net.Http.Formatting.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\System.Web.Http.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\System.Web.Http.WebHost.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\ar\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\cs\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\en\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\es\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\fa\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\fr\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\ja\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\ru\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\obj\Debug\Bot Application.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\BotBuilder-Samples-master\CSharp\Bot Application1\obj\Debug\Bot Application.pdb
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\obj\Debug\Bot Application1.csproj.CoreCompileInputs.cache
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\obj\Debug\Bot Application.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\obj\Debug\Bot Application.pdb
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\Bot Application.dll.config
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\Bot Application.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\Bot Application.pdb
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\Autofac.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\Microsoft.Bot.Builder.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\Microsoft.Bot.Builder.Autofac.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\Microsoft.Bot.Connector.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\Microsoft.WindowsAzure.Configuration.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\Newtonsoft.Json.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\System.IdentityModel.Tokens.Jwt.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\System.Net.Http.Formatting.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\System.Web.Http.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\System.Web.Http.WebHost.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\ar\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\cs\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\en\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\es\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\fa\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\fr\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\ja\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\ru\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\obj\Debug\Bot Application1.csprojResolveAssemblyReference.cache
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\Autofac.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\Chronic.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\Microsoft.Bot.Builder.Autofac.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\Microsoft.Bot.Builder.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\Microsoft.Bot.Connector.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\Microsoft.Rest.ClientRuntime.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\Microsoft.WindowsAzure.Configuration.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\Newtonsoft.Json.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\System.IdentityModel.Tokens.Jwt.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\System.Net.Http.Formatting.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\System.Web.Http.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\qnaforsøk\bin\System.Web.Http.WebHost.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\obj\Debug\Bot Application1.csprojResolveAssemblyReference.cache
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\obj\Debug\Bot Application1.csproj.CoreCompileInputs.cache
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\obj\Debug\Bot Application.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\obj\Debug\Bot Application.pdb
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\Bot Application.dll.config
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\Bot Application.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\Bot Application.pdb
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\Autofac.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\Chronic.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\Microsoft.Bot.Builder.Autofac.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\Microsoft.Bot.Builder.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\Microsoft.Bot.Connector.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\Microsoft.Rest.ClientRuntime.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\Newtonsoft.Json.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\System.Net.Http.Formatting.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\System.Web.Http.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\System.Web.Http.WebHost.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\Autofac.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\Microsoft.Bot.Builder.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\Microsoft.Bot.Builder.Autofac.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\Microsoft.Bot.Connector.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\Newtonsoft.Json.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\System.Net.Http.Formatting.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\System.Web.Http.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\System.Web.Http.WebHost.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\cs\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\it\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\nl\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\GenerelQnALuis-Bot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\Bot Application.dll.config
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\Bot Application.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\Bot Application.pdb
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\Autofac.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\Chronic.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\Microsoft.Bot.Builder.Autofac.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\Microsoft.Bot.Builder.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\Microsoft.Bot.Connector.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\Microsoft.Rest.ClientRuntime.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\Microsoft.WindowsAzure.Configuration.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\Newtonsoft.Json.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\System.IdentityModel.Tokens.Jwt.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\System.Net.Http.Formatting.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\System.Web.Http.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\System.Web.Http.WebHost.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\Autofac.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\Microsoft.Bot.Builder.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\Microsoft.Bot.Builder.Autofac.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\Microsoft.Bot.Connector.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\Microsoft.WindowsAzure.Configuration.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\Newtonsoft.Json.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\System.IdentityModel.Tokens.Jwt.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\System.Net.Http.Formatting.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\System.Web.Http.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\System.Web.Http.WebHost.xml
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\ar\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\cs\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\en\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\es\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\fa\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\fr\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\it\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\ja\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\nl\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\ru\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\obj\Debug\Bot Application1.csprojResolveAssemblyReference.cache
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\obj\Debug\Bot Application1.csproj.CoreCompileInputs.cache
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\obj\Debug\Bot Application.dll
+d:\Profiles\vaartun\Documents\chatbot tutorial\Kreftforeningen demo\Kreftforeningen Chatbot\obj\Debug\Bot Application.pdb
