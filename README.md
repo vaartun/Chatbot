@@ -3,7 +3,7 @@
 Create a cognitive service for Translator Text API, and LUIS on https://portal.azure.com/
 
 Go to https://www.luis.ai/, add your key from azure and import LUIS app on using LUIS.json.
-Go to https://qnamaker.ai/ create a new sevice with QnA.tsv.
+Go to https://qnamaker.ai/ create a new service with QnA.tsv.
 
 
 Add Translator Text API in MessageController.cs.
